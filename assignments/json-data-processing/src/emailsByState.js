@@ -14,8 +14,8 @@
  * The function will return an object where the key represents a state name,
  * and the corresponding value is an array of email addresses associated with
  * that state. If there are no email addresses for a specific state, the array
- * will be empty:
- *
+ * will be empty.
+ * 
  * {
  *   "NJ": [
  *     "aeicke0@privacy.gov.au",
